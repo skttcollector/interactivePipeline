@@ -1,0 +1,5 @@
+# python git stuff to exclude
+
+*.pyc
+
+
