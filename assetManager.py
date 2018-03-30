@@ -6,7 +6,7 @@ import maya.cmds as cmds
 
 import Utilities.assetInfo as ai
 import Utilities.utilityFunctions as uf
-
+# import Utilities.projectGlobals as pg
 # TODO 
 # current scene info at top
 # change namespace functionality? right click
